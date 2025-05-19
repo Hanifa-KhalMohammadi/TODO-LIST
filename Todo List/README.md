@@ -22,7 +22,8 @@ This is a lightweight and interactive To-Do List web application built using HTM
 - **jQuery**
 
 ---
-
+![Screenshot](TODO-LIST-THUMBNAIL1.png)
+![Screenshot](TODO-LIST-THUMBNAIL2.png)
 
 
 
